@@ -1,0 +1,3 @@
+Emerson & Jessica — Lista oficial de 50 presentes.
+Abra index.html. As fotos de copos e jantar são os modelos exatos fornecidos. Outros itens exibem fotos ilustrativas vindas de fontes externas; alguns podem não carregar caso o serviço externo esteja indisponível.
+A reserva nesta prévia é local ao navegador. Para funcionamento com convidados em aparelhos diferentes, é necessário configurar o Supabase e inserir os 50 itens no banco de dados.
